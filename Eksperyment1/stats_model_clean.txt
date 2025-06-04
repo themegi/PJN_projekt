@@ -1,0 +1,5 @@
+TrainOutput(global_step=1560, training_loss=0.8402925662505321, metrics={'train_runtime': 46288.4383, 'train_samples_per_second': 1.08, 'train_steps_per_second': 0.034, 'total_flos': 3.030634092036096e+16, 'train_loss': 0.8402925662505321, 'epoch': 9.9408})
+rouge1: 0.3992
+rouge2: 0.1733
+rougeL: 0.2710
+rougeLsum: 0.3674
